@@ -18,7 +18,6 @@ I am currently a pursuing my Masters Degree in Applied Computer Science.<br>Prof
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khyati-Bareja&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Khyati-Bareja&icon=0&color=11)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
