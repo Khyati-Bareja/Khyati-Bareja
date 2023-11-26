@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a pursuing my Masters Degree in Applied Computer Science.<br>Profession: Crafting data alchemy: transforming raw information into the art of seamless <br>analytics symphony as a Data Engineer. 🚀✨ 
+I am currently a pursuing my Masters Degree in Applied Computer Science.<br>Profession: Crafting data alchemy by transforming raw information into the art of seamless <br>analytics symphony as a Data Engineer. 🚀✨ 
 
 
 ## 🌐 Socials:
